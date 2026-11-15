@@ -25,18 +25,24 @@
             "id": "81ae857c8cd27d81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/clean-code/names-and-functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "names-and-functions"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7f312be9bfc75a53",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/clean-code/names-and-functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for names-and-functions"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/clean-code/names-and-functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from names-and-functions"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/clean-code/names-and-functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of names-and-functions"
+              "title": "Outline"
             }
           }
         ]
@@ -198,16 +201,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "81ae857c8cd27d81",
+  "active": "7f312be9bfc75a53",
   "lastOpenFiles": [
     "journal/2026-W46.md",
+    "Untitled.canvas",
+    "notes/clean-code/names-and-functions.md",
     "adr/0001-repo-layout.md",
     "plan/ROADMAP.md",
     "plan/CHANGELOG.md",
     "CLAUDE.md",
     "README.md",
     "adr/0000-template.md",
-    "notes/clean-code/names-and-functions.md",
     "notes/clean-code",
     "journal/_template.md",
     "journal/scorecard.md",
