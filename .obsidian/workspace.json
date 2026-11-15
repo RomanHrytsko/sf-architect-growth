@@ -35,10 +35,14 @@
             "id": "7f312be9bfc75a53",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "journal/2026-W46.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-W46"
             }
           }
         ],
@@ -203,6 +207,7 @@
   },
   "active": "7f312be9bfc75a53",
   "lastOpenFiles": [
+    "journal/_template.md",
     "journal/2026-W46.md",
     "Untitled.canvas",
     "notes/clean-code/names-and-functions.md",
@@ -213,7 +218,6 @@
     "README.md",
     "adr/0000-template.md",
     "notes/clean-code",
-    "journal/_template.md",
     "journal/scorecard.md",
     "diagrams/README.md"
   ]
