@@ -14,15 +14,15 @@
 
 ## Цілі до 7 листопада 2027
 
-| Напрям | Результат | Перевірка |
-| --- | --- | --- |
-| Clean code і тести | 8 катів з рефакторингом; середня оцінка PR ≥ 3.5 | `journal/scorecard.md` |
-| Патерни | Enterprise-шари й 5+ GoF-патернів в Apex і LWC; уміння пояснити, коли не застосовувати | код + нотатки |
-| Архітектура | 15–20 ADR; 3 mock design-review по 30–45 хв | `adr/`, `reviews/` |
-| Agentforce | 2 агенти, eval ≥ 30 кейсів, threat model | репо Renewal Agents |
-| Наскрізний проєкт | RenewalHub v1.0 (CI/CD, пакети, діаграми) | release на GitHub |
-| Стабільність | ≥ 40 з 52 тижневих записів | `journal/` |
-| Сертифікації | Integration Architect вже є; ще 2: Sharing and Visibility (фаза 2), Development Lifecycle and Deployment або IAM (фаза 4). Вимоги звіряти на Trailhead | Trailhead |
+| Напрям             | Результат                                                                                                                                              | Перевірка              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| Clean code і тести | 8 катів з рефакторингом; середня оцінка PR ≥ 3.5                                                                                                       | `journal/scorecard.md` |
+| Патерни            | Enterprise-шари й 5+ GoF-патернів в Apex і LWC; уміння пояснити, коли не застосовувати                                                                 | код + нотатки          |
+| Архітектура        | 15–20 ADR; 3 mock design-review по 30–45 хв                                                                                                            | `adr/`, `reviews/`     |
+| Agentforce         | 2 агенти, eval ≥ 30 кейсів, threat model                                                                                                               | репо Renewal Agents    |
+| Наскрізний проєкт  | RenewalHub v1.0 (CI/CD, пакети, діаграми)                                                                                                              | release на GitHub      |
+| Стабільність       | ≥ 40 з 52 тижневих записів                                                                                                                             | `journal/`             |
+| Сертифікації       | Integration Architect вже є; ще 2: Sharing and Visibility (фаза 2), Development Lifecycle and Deployment або IAM (фаза 4). Вимоги звіряти на Trailhead | Trailhead              |
 
 ## Принципи
 
